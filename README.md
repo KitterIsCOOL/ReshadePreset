@@ -1,1 +1,1 @@
-Install the EXE and then install the preset. After that just pick your game and then go through the process untill you get to the select preset. Then just locate my preset then put it in. Launch your game and ENJOY!
+Install the EXE and then install the preset (If the EXE is outdated just go to the reshade website and install the EXE from there.). After that just pick your game and then go through the process untill you get to the select preset. Then just locate my preset then put it in. Launch your game and ENJOY!
